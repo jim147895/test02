@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class ttt {
+public class ttt {
+    ///sdsd
+    //sdasdasdadad
+    String s="";
 }
