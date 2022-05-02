@@ -1,5 +1,5 @@
 public class ttt {
     ///sdsd
     //sdasdasdadad
-    String s="";
+    String s="aaa";
 }
